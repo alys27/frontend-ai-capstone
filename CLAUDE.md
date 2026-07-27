@@ -31,5 +31,13 @@ Examples:
 When suggesting code:
 
 - Explain major decisions.
-- Avoid unnecessary complexity.
+- Avoid unncessary complexity.
 - Prefer vanilla JavaScript unless asked otherwise.
+
+
+## Best Practices
+
+- Keep commits small and focused.
+- Follow semantic HTML principles.
+- Write clear and descriptive commit messages.
+- Prefer readable and maintainable code.
