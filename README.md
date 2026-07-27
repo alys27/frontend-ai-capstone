@@ -2,9 +2,20 @@
 
 This repository contains my capstone project for the FlyRank Frontend AI Engineering Internship.
 
+
 ## Overview
 
-The goal of this repository is to establish a professional development environment before starting the capstone project.
+This repository hosts my FlyRank Frontend AI Engineering capstone: a vanilla JavaScript web application built with semantic HTML, modern CSS, and ES6+. The project demonstrates professional Git workflow, AI-assisted development, and clear documentation practices.
+
+## Repository Structure
+
+```text
+frontend-ai-capstone/
+├── README.md
+├── CLAUDE.md
+├── LICENSE
+└── .gitignore
+```
 
 ## Tech Stack
 
@@ -21,6 +32,10 @@ The goal of this repository is to establish a professional development environme
 - Practice AI-assisted development
 - Follow Conventional Commits
 - Maintain clear documentation
+
+## Project Status
+
+🚧 This repository is currently being prepared as part of the FlyRank Frontend AI Engineering Internship. Additional features and documentation will be added throughout the internship.
 
 ## Getting Started
 
